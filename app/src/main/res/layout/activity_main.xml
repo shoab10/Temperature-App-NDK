@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textOn="Fahrenheit"
-        android:textOff="Celcius"
+        android:textOff="Celsius"
         android:id="@+id/toggleButton"
         android:checked="true"
         android:layout_gravity="center_horizontal" />
